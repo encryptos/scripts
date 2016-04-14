@@ -1,0 +1,6 @@
+[root@server1 ~]# mailx sales@example.com
+Subject: Welcome <-- ENTER
+Welcome! Have fun with your new mail account. <-- ENTER
+<-- CTRL+D
+EOT
+[root@server1 ~]#
